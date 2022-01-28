@@ -50,7 +50,7 @@ Uyarı 🚦 Bu Virüs Tam Dahili Depolamayı Biçimlendiriyor (Siliyor) O halde 
 * [+] Termux için çalışan virüs aracı !
 
 ## KURULUM [Termux] :
-
+__NOT__ : Eğer işlem durursa Y basarak devam ediniz
 * `apt-get update `
 * `apt-get upgrade `
 * `pkg install python `
