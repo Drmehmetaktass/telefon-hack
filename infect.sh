@@ -1,6 +1,4 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
-# Colours
+
 #-----------------
 red="\e[91m"
 rset="\e[0m"
