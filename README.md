@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in TURKEY" src="https://img.shields.io/badge/MADE%20IN-TURKEY-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
@@ -10,8 +10,8 @@
 <a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/drmehmetaktas"><img title="Github" src="https://img.shields.io/badge/drmehmetaktas-brightgreen?style=for-the-badge&logo=github"></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
