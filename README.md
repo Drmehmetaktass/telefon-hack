@@ -92,7 +92,7 @@ __ÇIKIŞ__ :
 
 ## BİZİMLE İLETİŞİME GEÇİN :
 
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="github.com/drmehmetaktass"></a>
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/dr-mehmet-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/dr.mehmetaktass?utm_medium=copy_link)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/TURKCBOT)
 
