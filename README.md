@@ -7,7 +7,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://img.webme.com/pic/d/drmehmetaktas/IMG_20220126_172519_738.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/drmehmetaktas"><img title="Github" src="https://img.shields.io/badge/drmehmetaktas-brightgreen?style=for-the-badge&logo=github"></a>
@@ -24,40 +24,40 @@
 
 ## ABOUT TOOL :
 
-Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
-Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
+Infect, resmi olarak termux kullanıcıları için yapılmış bash tabanlı bir betiktir ve bu araçtan sadece bağlantı göndererek android virüsünü yayabilirsiniz. Bu araç hem köklü Android cihazda hem de köklü olmayan Android cihazda çalışır.
+Uyarı 🚦 Bu Virüs Tam Dahili Depolamayı Biçimlendiriyor (Siliyor) O halde düşünün ve kullanın.
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
-## AVAILABLE ON :
+## MEVCUT :
 
 * Termux
 
-### TESTED ON :
+### TEST EDİLMİŞTİR :
 
 * Termux
 
-### REQUIREMENTS :
+### GEREKSİNİMLER :
 * internet
-* external storage permission
-* storage 400 MB
+* Harici depolama izni 
+* Depolama 400 MB
 * 1gb ram
 
-## FEATURES :
-* [+] Dangerous virus tool !
-* [+] Updated maintainence !
-* [+] Easy for beginners !
-* [+] Working virus tool for termux !
+## ÖZELLİKLERİ :
+* [+] Tehlikeli virüs aracı!
+* [+] Güncellenmiş bakım !
+* [+] Yeni başlayanlar için kolay!
+* [+] Termux için çalışan virüs aracı !
 
-## INSTALLATION [Termux] :
+## KURULUM [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
+* `apt-get update `
+* `apt-get upgrade `
+* `pkg install python `
+* `pkg install python2 `
+* `pkg install git `
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/drmehmetaktas/telefon-hack`
 * `cd $HOME`
 * `ls`
 * `cd infect`
