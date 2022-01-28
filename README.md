@@ -26,7 +26,7 @@
 
 Infect, resmi olarak termux kullanıcıları için yapılmış bash tabanlı bir betiktir ve bu araçtan sadece bağlantı göndererek android virüsünü yayabilirsiniz. Bu araç hem köklü Android cihazda hem de köklü olmayan Android cihazda çalışır.
 Uyarı 🚦 Bu Virüs Tam Dahili Depolamayı Biçimlendiriyor (Siliyor) O halde düşünün ve kullanın.
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+<p align="center"><a href="https://github.com/Drmehmetaktass"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
 ## MEVCUT :
